@@ -8,18 +8,18 @@ endif
 set t_Co=256
 let colors_name = "bucht"
 
-hi Comment	    guifg=#808080    ctermfg=244    gui=bold    cterm=bold 
+hi Comment	    guifg=#626262    ctermfg=237    gui=bold    cterm=bold 
 hi Constant	    guifg=#ff875f    ctermfg=209    gui=none    cterm=none 
 hi Cursor	    guibg=#005f87    ctermbg=17    guifg=#c6c6c6    ctermfg=251    gui=none    cterm=none 
 hi CursorLine	    guifg=#ffffff    ctermfg=15    guibg=#1c1c1c    ctermbg=234    gui=none    cterm=none 
 hi ColorColumn	    guifg=#ffffff    ctermfg=15    guibg=#af5f5f    ctermbg=131    gui=none    cterm=none 
 hi Directory	    guifg=#87af00    ctermfg=107    gui=none    cterm=none 
 hi Folded	    guibg=#585858    ctermbg=240    guifg=#afaf87    ctermfg=110    gui=none    cterm=none 
-hi Function	    guifg=#87afd7    ctermfg=242    gui=none    cterm=none 
+hi Function	    guifg=#87afd7    ctermfg=110    gui=none    cterm=none 
 hi Identifier	    guifg=#dfaf5f    ctermfg=179    gui=none    cterm=none 
 hi LineNr	    guifg=#8a8a8a    ctermfg=193    gui=none    cterm=none 
 hi MatchParen	    guifg=#dfffaf    ctermfg=252    guibg=#008080    ctermbg=6    gui=none    cterm=none 
-hi Normal	    guifg=#eeeeee    ctermfg=255    guibg=#1c1c1c    ctermbg=233    gui=none    cterm=none 
+hi Normal	    guifg=#eeeeee    ctermfg=255    guibg=#1c1c1c    ctermbg=232    gui=none    cterm=none 
 hi NonText	    guibg=#121212    ctermbg=233    guifg=#121212    ctermfg=233    gui=none    cterm=none 
 hi Number	    guifg=#d787af    ctermfg=175    gui=none    cterm=none 
 hi PreProc	    guifg=#875faf    ctermfg=97    gui=none    cterm=none 
