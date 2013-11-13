@@ -9,7 +9,7 @@ endif
 set t_Co=256
 let colors_name = "bucht"
 
-hi Comment	    guifg=#626262    ctermfg=237    gui=bold    cterm=bold 
+hi Comment	    guifg=#6c6c6c    ctermfg=242    gui=none    cterm=none 
 hi Constant	    guifg=#ff875f    ctermfg=209    gui=none    cterm=none 
 hi Cursor	    guibg=#005f87    ctermbg=17    guifg=#c6c6c6    ctermfg=251    gui=none    cterm=none 
 hi CursorLine	    guifg=#ffffff    ctermfg=15    guibg=#1c1c1c    ctermbg=234    gui=none    cterm=none 
