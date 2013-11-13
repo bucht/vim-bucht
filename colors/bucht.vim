@@ -20,10 +20,10 @@ hi Function	    guifg=#87afd7    ctermfg=110    gui=none    cterm=none
 hi Identifier	    guifg=#afafd7    ctermfg=146    gui=none    cterm=none term=none
 hi LineNr	    guifg=#8a8a8a    ctermfg=193    gui=none    cterm=none 
 hi MatchParen	    guifg=#dfffaf    ctermfg=252    guibg=#008080    ctermbg=6    gui=none    cterm=none 
-hi Normal	    guifg=#eeeeee    ctermfg=255    guibg=#1c1c1c    ctermbg=232    gui=none    cterm=none 
+hi Normal	    guifg=#eeeeee    ctermfg=255    guibg=#1c1c1c    ctermbg=233    gui=none    cterm=none 
 hi NonText	    guibg=#121212    ctermbg=233    guifg=#121212    ctermfg=233    gui=none    cterm=none 
 hi Number	    guifg=#d787af    ctermfg=175    gui=none    cterm=none 
-hi PreProc	    guifg=#875faf    ctermfg=97    gui=none    cterm=none 
+hi PreProc	    guifg=#d75fd7    ctermfg=170    gui=none    cterm=none 
 hi Statement	    guifg=#d75faf    ctermfg=169    gui=none    cterm=none 
 hi Special	    guifg=#87af5f    ctermfg=107    gui=none    cterm=none 
 hi SpecialKey	    guifg=#87af00   ctermfg=106    gui=none    cterm=none 
@@ -40,6 +40,6 @@ hi Visual	    guifg=#005f5f    ctermfg=23    guibg=#bcbcbc    ctermbg=250    gui
 
 "JAVA
 hi javaType guifg=#af5f5f    ctermfg=131
-hi javaClassDecl guifg=#875faf    ctermfg=97
+hi javaClassDecl guifg=#d75fd7    ctermfg=170
 
 
